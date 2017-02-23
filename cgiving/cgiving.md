@@ -65,6 +65,7 @@ INPUT FORMAT:
 
 SAMPLE INPUT:
 
+```
 6 7 3
 1 2 3
 5 4 3
@@ -76,6 +77,7 @@ SAMPLE INPUT:
 2 4
 5 1
 3 6
+```
 
 OUTPUT FORMAT:
 
@@ -86,6 +88,8 @@ OUTPUT FORMAT:
 
 SAMPLE OUTPUT:
 
+```
 6
 6
 10
+```
